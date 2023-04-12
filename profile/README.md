@@ -14,12 +14,34 @@
 
 **Documentation:** https://docs.titaniumnetwork.org
 
-### About
-Titanium Network is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
 
-For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, TOMP and formally Womginx from contributors. 
+## About Beargle
 
-Our Discord has well over 20,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
+Beargle is a GitHub organization that makes tools to help teachers improve security in their schools. We believe that every student deserves a safe and secure learning environment, and we're committed to providing teachers with the resources they need to make that happen.
+
+Our tools help teachers to block harmful websites, monitor student activity, and protect student data. We also provide educational resources on security and privacy, so that teachers can learn how to keep their students safe online.
+
+We believe that every school should be a safe and secure place for students to learn. We're committed to helping teachers achieve that goal, and we're always looking for new ways to improve our tools and resources.
+
+## Our Tools
+
+We offer a variety of tools that can be used to improve security in schools. Our most popular tool is our firewall, which allows teachers to block harmful websites and apps. We also offer a variety of other tools, including a monitoring system, a password manager, and a security awareness training program.
+
+## Our Educational Resources
+
+We also offer a variety of educational resources on security and privacy. Our website includes articles, tutorials, and videos on a variety of topics, including how to protect your school from cyberattacks, how to use a firewall, and how to stay safe online.
+
+## Our Mission
+
+Our mission is to help teachers improve security in their schools so that students can learn in a safe and secure environment. We believe that every student deserves a safe and secure learning environment, and we're committed to providing teachers with the resources they need to make that happen.
+
+## Our Vision
+
+We believe that every school should be a safe and secure place for students to learn. We're committed to helping teachers achieve that goal, and we're always looking for new ways to improve our tools and resources.
+
+## Contact Us
+
+If you have any questions about our tools or resources, please don't hesitate to contact us. We're always happy to help.
 
 ### Projects
 <details>
