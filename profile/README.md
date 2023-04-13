@@ -47,6 +47,6 @@ If you have any questions about our tools or resources or if you just want to kn
 <summary>Beargle OS Client</summary>
   
   - [Beargle OS Client](https://github.com/Beargle-Hackers/BeargleOS-Client)
-  - [Github](https://doublehotdisk.gilpinfamily.repl.coS)
+  - [Github](https://doublehotdisk.gilpinfamily.repl.co)
 
 
