@@ -8,44 +8,31 @@
 
 <p align="center">
 <a href="https://discord.gg/gETpujFGGU"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://www.reddit.com/r/Beargle/"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><img></a>
 <a href="https://www.reddit.com/r/Beargle/"><img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"><img></a>
 </p>
 
-**Documentation:** https://docs.titaniumnetwork.org
+
 
 
 ## About Beargle
 
-Beargle is a GitHub organization that makes tools to help teachers improve security in their schools. We believe that every student deserves a safe and secure learning environment, and we're committed to providing teachers with the resources they need to make that happen.
+Beargle is an organization that makes tools to help teachers improve security in their schools. We believe that every student deserves a safe and secure learning environment, and we're want to provide teachers with the resources they need to make that happen.
 
-Our tools help teachers to block harmful websites, monitor student activity, and protect student data. We also provide educational resources on security and privacy, so that teachers can learn how to keep their students safe online.
+Our tools are examples for how common "unblocking" tools are made our discord server copies many discord servers dedicated to unblocking the internet and our entire system basically beyond this piont is and open source replica of many unblocking orginizations.
 
-We believe that every school should be a safe and secure place for students to learn. We're committed to helping teachers achieve that goal, and we're always looking for new ways to improve our tools and resources.
+We believe that every school should be a safe and secure place for students to learn. We want to help teachers achieve that goal, and we're always looking for the newest exploits to improve resources.
 
 ## Our Tools
 
-We offer a variety of tools that can be used to improve security in schools. Our most popular tool is our firewall, which allows teachers to block harmful websites and apps. We also offer a variety of other tools, including a monitoring system, a password manager, and a security awareness training program.
-
-## Our Educational Resources
-
-We also offer a variety of educational resources on security and privacy. Our website includes articles, tutorials, and videos on a variety of topics, including how to protect your school from cyberattacks, how to use a firewall, and how to stay safe online.
-
-## Our Mission
-
-Our mission is to help teachers improve security in their schools so that students can learn in a safe and secure environment. We believe that every student deserves a safe and secure learning environment, and we're committed to providing teachers with the resources they need to make that happen.
-
-## Our Vision
-
-We believe that every school should be a safe and secure place for students to learn. We're committed to helping teachers achieve that goal, and we're always looking for new ways to improve our tools and resources.
+We offer a wide variety of tools that are similiar to many unblocking programs wich can hopefully be investigated and used to improve security in schools. Our most best working tool is Beargleos wich is a fully unblocked operating system.
 
 ## Contact Us
 
-If you have any questions about our tools or resources, please don't hesitate to contact us. We're always happy to help.
+If you have any questions about our tools or resources or if you just want to know something, please don't hesitate to contact us. We're always happy to help.
 
 ### Projects
 <details>
-<summary>Overview</summary>
+<summary>Tools</summary>
 
 #### Active
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
