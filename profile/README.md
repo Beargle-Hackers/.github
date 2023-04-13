@@ -35,36 +35,16 @@ If you have any questions about our tools or resources or if you just want to kn
 <summary>Tools</summary>
 
 #### Active
-- [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-- [Incognito](https://github.com/caracal-js/Incognito)
-- [Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
-- [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
+<details>
+<summary>Beargle OS</summary>
+  
+  - [Beargle OS](https://user-images.githubusercontent.com/116687416/228417291-2c1d1b36-2076-4785-bcef-03c90ae5baba.mp4)
+  - [Github](https://github.com/Beargle-Hackers/BeargleOS)
 
+</details>  
+ 
+  - [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 
-#### Affiliated
-- [Tomp Web Proxies (tomphttp)](https://github.com/tomphttp)
-- [Rammerhead](https://github.com/binary-person/rammerhead)
-- [Womginx](https://github.com/binary-person/womginx)
-- [Holy Unblocker AIO](https://github.com/holy-unblocker/website-aio)
-
-#### Old
-- Corrosion
-- Vanadium
-- Reborn
-- Alloy
-- Resilience
-- Via Unblocker (PyDodge)
-- PyDodge B
-- P2
-- Pheonix Reborn
-- Boardwalk
-- TitaniumLite
-- Powermouse
-- Material Unblocker
-- Chat-Utils (cursed)
-- Muun
-- [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy)
 
 </details>
 
