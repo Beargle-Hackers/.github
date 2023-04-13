@@ -43,17 +43,10 @@ If you have any questions about our tools or resources or if you just want to kn
 
 </details>  
  
-  - [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+<details>
+<summary>Beargle OS Client</summary>
+  
+  - [Beargle OS Client](https://github.com/Beargle-Hackers/BeargleOS-Client)
+  - [Github](https://doublehotdisk.gilpinfamily.repl.coS)
 
 
-</details>
-
-### Services
-- [Holy Unblocker](https://holyubofficial.net)
-- [Incognito](https://incog.dev)
-- [Hypertabs](https://hypertabs.cc)
-- [Terbium](https://terbium.ga)
-- [Illusive](https://illusive.app)
-- [Ludicrous](https://ludicrous.icu)
-- [Nebula](https://nebulaproxy.io)
-- [Radon Games](https://radon.games)
